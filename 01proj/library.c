@@ -11,10 +11,6 @@
 #include "graphics.h"
 #include "iso_font.h"
 
-// !!!!!!!!! DELETE !!!!!!!!!!!!!!!!!!!!!!!!!
-#include <stdio.h>  // FOR TESTING !!!!!!!!!!
-// !!!!!!!!! DELETE !!!!!!!!!!!!!!!!!!!!!!!!!
-
 // program variables
 int SCREEN_WIDTH;
 int SCREEN_HEIGHT;
